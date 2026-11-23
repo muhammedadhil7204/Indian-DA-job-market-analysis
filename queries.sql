@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM jobs;
+SELECT COUNT(*) FROM jobs WHERE exp_min = 0;
